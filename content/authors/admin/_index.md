@@ -7,11 +7,11 @@ social: []
 organizations: []
 education:
   courses:
-    - course: M.SC. In biotechnology, College of Science
+    - course: M.SC. in biotechnology, College of Science
       institution: University of Sharjah
       year: 2020
     - institution: University of Sharjah
-      course: B.SC. In biotechnology, College of Science
+      course: B.SC. in biotechnology, College of Science
       year: 2017
 superuser: true
 ---
