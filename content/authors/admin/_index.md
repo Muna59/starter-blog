@@ -7,6 +7,9 @@ social:
   - icon_pack: fab
     link: https://orcid.org/0000-0003-3815-5879
     icon: orcid
+  - link: www.linkedin.com/in/muna-alhammadi-710493147
+    icon_pack: fab
+    icon: linkedin-in
 organizations: []
 education:
   courses:
