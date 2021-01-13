@@ -8,11 +8,11 @@ headless: true
 # Order that this section will appear in.
 weight: 10
 
-title: ✏️ Blog Template
-subtitle: 'For [Wowchemy Website Builder](https://wowchemy.com/)'
+title: BioData Artist
+subtitle: 'By Muna Alhammadi'
 
 design:
   background:
-    color: '#090a0b'
-    text_color_light: true
+    color: '#e3dac9'
+    text_color_light: FALSE
 ---
