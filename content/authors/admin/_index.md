@@ -5,8 +5,8 @@ bio: ""
 interests: []
 social:
   - icon_pack: fas
-    link: m59alhammadi@gmail.com
-    icon: envelope
+    link: https://orcid.org/0000-0003-3815-5879
+    icon: orcid
 organizations: []
 education:
   courses:
