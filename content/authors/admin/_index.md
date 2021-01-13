@@ -1,7 +1,7 @@
 ---
 title: Muna Alhammadi
 role: ""
-avatar_filename: img_20200308_170325.jpg
+avatar_filename: avatar.jpg
 bio: ""
 interests: []
 social:
