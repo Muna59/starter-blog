@@ -4,7 +4,7 @@ role: ""
 bio: ""
 interests: []
 social:
-  - icon_pack: fas
+  - icon_pack: fab
     link: https://orcid.org/0000-0003-3815-5879
     icon: orcid
 organizations: []
