@@ -13,6 +13,6 @@ subtitle: 'By Muna Alhammadi'
 
 design:
   background:
-    color: '#e3dac9'
-    text_color_light: FALSE
+    color: '#800060'
+    text_color_light: TRUE
 ---
