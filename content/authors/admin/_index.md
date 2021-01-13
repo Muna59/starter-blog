@@ -3,7 +3,10 @@ title: Muna Alhammadi
 role: ""
 bio: ""
 interests: []
-social: []
+social:
+  - icon_pack: fas
+    link: m59alhammadi@gmail.com
+    icon: envelop
 organizations: []
 education:
   courses: []
